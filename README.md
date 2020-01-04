@@ -1,2 +1,2 @@
 # hello_world
-I am a front web developer ready to learn more!
+I am a front end web developer ready to learn more!
